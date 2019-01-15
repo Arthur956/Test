@@ -3,3 +3,4 @@ function herhaal(teller, woord) {
       document.writeln(i + " " + woord);
      }
 }
+//bAHUZFGZF
